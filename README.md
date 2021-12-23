@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm InfoX, a young programmer from <img src="https://flagicons.lipis.dev/flags/4x3/pl.svg" width="13"/> <b>Poland</b>
-<h3>Things I code with</h3>
+<h3>Things I work with</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20sharp&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
