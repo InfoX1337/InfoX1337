@@ -18,7 +18,7 @@
 </p>
 
 <h3>What am i working on?</h3>
-Currently i have started working on xStudios (https://xstudios.one). xStudios is an organisation, where we can help you with your code, but only if we can publish it as open source in our repos. I have also worked with Discord.js, Vue and bash. I am also slightly advanced in linux.
+Currently i have started working on xStudios (https://xstudios.one / https://github.com/xStudios-one). xStudios is an organisation, where we can help you with your code, but only if we can publish it as open source in our repos. I have also worked with Discord.js, Vue and bash. I am also slightly advanced in linux.
 
 <h3>Contact</h3>
     <a href="https://discord.com/users/423161279167856640">
