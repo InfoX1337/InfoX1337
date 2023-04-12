@@ -11,7 +11,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infox1337&theme=dark" alt="infox1337" /></p>
 
 
-- 🔭 I’m currently working on [xstudios.one](https://xstudios.one)
+- 🔭 I’m currently working on [xconnect.cc](https://xconnect.cc)
 
 - 🌱 I’m currently learning **NextJS, React**
 
