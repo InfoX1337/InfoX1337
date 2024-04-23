@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [xconnect.cc](https://xconnect.cc)
 
-- 🌱 I’m currently learning **NextJS, React**
+- 🌱 I’m currently learning **Rust**
 
 - ⚡ Fun fact **I am actually a cat**
 
