@@ -11,9 +11,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infox1337&theme=dark" alt="infox1337" /></p>
 
 
-- 🔭 I’m currently working on [xconnect.cc](https://xconnect.cc)
+- 🔭 I’m currently working on [infox.dev](https://infox.dev)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently (re)learning **C++** (love-hate relationship)
 
 - ⚡ Fun fact **I am actually a cat**
 
